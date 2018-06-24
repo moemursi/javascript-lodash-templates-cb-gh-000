@@ -1,4 +1,4 @@
-JavaScript lodash Templates
+hJavaScript lodash Templates
 ---
 
 ## Objectives
